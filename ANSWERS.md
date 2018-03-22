@@ -19,4 +19,6 @@ it show an error from layout/application
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
+https://github.com/riyashah98/proj1
+
 
